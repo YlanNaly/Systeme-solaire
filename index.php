@@ -13,7 +13,7 @@
   <div id="stars"></div>
   <div id="sun"></div>
   <div id="earthOrbit">
-    <img src="/images/earth.png" alt="" id="earth">
+    <img src="images/earth.jpeg" alt="" id="earth">
     <div id="moonOrbit">
       <div id="moon"></div>
     </div>
